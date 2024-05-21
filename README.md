@@ -1,2 +1,1 @@
-# mp-lab7-PQueue
- 
+# mp2_lab7_priority_queue

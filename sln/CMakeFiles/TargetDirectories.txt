@@ -1,0 +1,6 @@
+C:/Users/Михаил/Desktop/GIT/mp2_lab7-PQueue/sln/CMakeFiles/ALL_BUILD.dir
+C:/Users/Михаил/Desktop/GIT/mp2_lab7-PQueue/sln/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Михаил/Desktop/GIT/mp2_lab7-PQueue/sln/src/CMakeFiles/PQueue.dir
+C:/Users/Михаил/Desktop/GIT/mp2_lab7-PQueue/sln/samples/CMakeFiles/sample_PQueue.dir
+C:/Users/Михаил/Desktop/GIT/mp2_lab7-PQueue/sln/gtest/CMakeFiles/gtest.dir
+C:/Users/Михаил/Desktop/GIT/mp2_lab7-PQueue/sln/tests/CMakeFiles/tests_PQueue.dir

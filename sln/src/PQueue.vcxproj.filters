@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Михаил\Desktop\GIT\mp2_lab7-PQueue\src\PQueue.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Михаил\Desktop\GIT\mp2_lab7-PQueue\src\TMonom.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Михаил\Desktop\GIT\mp2_lab7-PQueue\include\PQueue.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Михаил\Desktop\GIT\mp2_lab7-PQueue\include\TMonom.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Михаил\Desktop\GIT\mp2_lab7-PQueue\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{7B16B50E-321F-3D39-983E-8B0325590A5F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E9299619-1462-3531-85D0-42E71F9259D5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
